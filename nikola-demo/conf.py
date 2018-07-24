@@ -17,16 +17,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Nikola Tesla"  # (translatable)
-BLOG_TITLE = "My Nikola Site"  # (translatable)
+BLOG_AUTHOR = "Developers in Vuzz Inc."  # (translatable)
+BLOG_TITLE = "SnapDish Developer's Memorandum"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://tech.snapdish.co/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "n.tesla@example.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = ""
+BLOG_DESCRIPTION = "This site is used so as to note to self."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -53,8 +53,7 @@ BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
 # he        Hebrew
 # hi        Hindi
 # hr        Croatian
-# hu        Hungarian
-# id        Indonesian
+# hu        Hungarian # id        Indonesian
 # it        Italian
 # ja        Japanese [NOT jp]
 # ko        Korean
@@ -87,7 +86,7 @@ BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "ja"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
