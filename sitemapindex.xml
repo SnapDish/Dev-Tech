@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
+  <loc>https://tech.snapdish.co/galleries/rss.xml</loc>
+  <lastmod>2018-07-24T08:29:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
+  <loc>https://tech.snapdish.co/rss.xml</loc>
+  <lastmod>2018-07-24T08:29:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
+  <loc>https://tech.snapdish.co/sitemap.xml</loc>
+  <lastmod>2018-07-24T08:29:00Z</lastmod>
  </sitemap>
 </sitemapindex>
