@@ -31,7 +31,7 @@
 'render_taxonomies:output/archive.html', (28672, 1862)
 'render_tag_cloud:output/assets/js/tag_cloud_data.json', (30720, 142)
 'copy_assets:output/assets/css/images/ie6/borderBottomLeft.png', (31232, 444)
-'sitemap:output/sitemap.xml', (31744, 1210)
+'sitemap:output/sitemap.xml', (31744, 1212)
 'render_posts:timeline_changes', (33280, 109)
 'copy_assets:output/assets/css/html4css1.css', (33792, 397)
 'create_bundles', (34304, 56)
@@ -89,3 +89,4 @@
 'copy_assets:output/assets/css/bootstrap.min.css', (71168, 419)
 'copy_assets:output/assets/css/bootstrap.min.css.map', (71680, 427)
 'copy_assets:output/assets/js/jquery.min.map', (72192, 411)
+'copy_assets:output/assets/js/colorbox-i18n/jquery.colorbox-ja.js', (72704, 450)
