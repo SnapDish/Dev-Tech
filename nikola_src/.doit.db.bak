@@ -86,3 +86,7 @@
 'render_taxonomies:output/categories/index.html', (60416, 1303)
 'copy_assets:output/assets/css/nikola_rst.css', (61952, 399)
 'render_posts', (62464, 56)
+'render_posts:cache/posts/initial-post.html', (62976, 366)
+'render_taxonomies:output/2018/index.html', (65024, 2240)
+'render_pages:output/posts/initial-post.html', (67584, 5203)
+'render_sources:output/posts/initial-post.rst', (73216, 250)
