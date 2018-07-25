@@ -6,31 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://tech.snapdish.co/</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://tech.snapdish.co/2018/</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
- </url>
- <url>
   <loc>https://tech.snapdish.co/archive.html</loc>
-  <lastmod>2018-07-24T08:29:00Z</lastmod>
+  <lastmod>2018-07-25T04:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tech.snapdish.co/categories/</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
+  <loc>https://tech.snapdish.co/categories/index.html</loc>
+  <lastmod>2018-07-25T04:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tech.snapdish.co/galleries/</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
+  <loc>https://tech.snapdish.co/galleries/index.html</loc>
+  <lastmod>2018-07-25T04:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tech.snapdish.co/listings/</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
+  <loc>https://tech.snapdish.co/index.html</loc>
+  <lastmod>2018-07-25T04:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tech.snapdish.co/posts/hello-world/</loc>
-  <lastmod>2018-07-24T07:41:00Z</lastmod>
+  <loc>https://tech.snapdish.co/listings/index.html</loc>
+  <lastmod>2018-07-25T04:43:00Z</lastmod>
  </url>
 </urlset>
