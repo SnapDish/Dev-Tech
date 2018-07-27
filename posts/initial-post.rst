@@ -7,5 +7,4 @@
 .. description: 
 .. type: text
 
-ここに文書を記述してください。
 Hello, world
