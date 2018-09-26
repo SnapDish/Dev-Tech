@@ -44,7 +44,7 @@ HTMLなど機械が解釈しやすいファイルに変換してくれる。
     `git push origin "title"`  
     1. srcブランチにプルリク
     1. 技術MTGで検討の後、srcブランチにマージされる
-1. 本番化  
+1. webページに反映  
      1. srcブランチでプル  
     `git checkout src`  
     `git pull`  
